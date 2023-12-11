@@ -1,4 +1,4 @@
-# ML-model-implementation and Summary of Statistics
+# ML-model-implementation and Statistics
 
 ## Overview
 
